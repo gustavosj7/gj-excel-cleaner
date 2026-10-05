@@ -1,7 +1,7 @@
 # gj-excel-cleaner
 Automated Excel data cleaner built with Python &amp; Pandas. Instantly removes duplicates, trims whitespace, and auto-formats columns for data analysis.
 
-# Excel Data Cleaner
+# Excel Data Cleaner 1.0
 
 **Automated Excel data cleaner built with Python & Pandas. Instantly removes duplicates, trims whitespace, and auto-formats columns for data analysis.**
 
